@@ -9,12 +9,6 @@ Nosso objetivo é apontar o caminho.
 
 
 
-## Table of Contents
-
-[TOC]
-
-
-
 ## Capítulos
 
 
@@ -34,12 +28,12 @@ Nosso objetivo é apontar o caminho.
 
   - Git
   - Npm e Yarn
-  - Webpack
+  - Webpack & dev-server
 
 * **Vim: escreva código na velocidade do pensamento **
 
   * O que é, porque usar, princípios do funcionamento
-  * Customizando com vimscript
+  * Customizando Vim & Vimscript
   * Plugins Essenciais
 
 * **Appendix A: Dotfiles**
@@ -58,15 +52,15 @@ Nosso objetivo é apontar o caminho.
   - Tags Semânticas
 - **CSS**
   - A importância de organizar o código
-  - BEM, OOCSS, SMACS, ITCSS
   - Pré Processadores
-- **Javascript**
+  - BEM, OOCSS, SMACS, ITCSS
+- **[Javascript](./ch8)**
   - Executando os exemplos
   - Hoisting, Scope e Closure
   - Event Loop
   - Design Patterns
   - Funções Assíncronas
-  - Promises
+  - Programação Funcional
 
 
 
